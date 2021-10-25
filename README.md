@@ -35,6 +35,28 @@
 
   <img src="gifs/2.gif" width=600>
 
+  
+  También implementado con rotaciones
+
+  <img src="gifs/2_b.gif" width=600>
 
 
 ### Ejercicio 3
+Para el ejercicio 3 en la escena se añaden varios tipos de objetos que interaccionan con el jugador de diversas maneras.
+
+
+- Cilindros que aumentan su tamaño y la puntuación del jugador.
+
+    <img src="gifs/3_a.gif" width=600>
+- Cilindros que cuando el jugador pulsa el espacio y está lo suficientemente cerca, se les a la dirección opuesta.
+
+    <img src="gifs/3_b.gif" width=600>
+- Cilindros que huyen del jugador.
+
+    <img src="gifs/3_c.gif" width=600>
+- Segundo jugador representado por una esfera que se mueva con las teclas *IJKL*.
+
+    <img src="gifs/3_d.gif" width=600>
+- Cubos que cuando el jugador principal los toca, disminuyen su tamaño, y si los toca el jugador secundario, aumentan.
+
+    <img src="gifs/3_e.gif" width=600>
